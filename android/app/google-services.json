@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "995840306273",
+    "project_id": "wonwoo-ac6a2",
+    "storage_bucket": "wonwoo-ac6a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995840306273:android:3c1651bfb116241a0e4e20",
+        "android_client_info": {
+          "package_name": "com.wonwookorea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995840306273-sso27pi9aka8af3p5ca84uvpqd6atb3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wonwookorea",
+            "certificate_hash": "e6b2cb1f8450d062d049fe0bd8acf727843594e3"
+          }
+        },
+        {
+          "client_id": "995840306273-c58dd7t7e6mjo46u8ojks05lh2rur8np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hGZIRjigZ48uyDTymMMW945LIx9E3d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995840306273-c58dd7t7e6mjo46u8ojks05lh2rur8np.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995840306273-2rscnqmdj3a9iqhbntheuso06tnkasnl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wonwookorea.wonwoo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

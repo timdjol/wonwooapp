@@ -1,0 +1,9 @@
+{
+	"php-intellisense.trace.server": "messages",
+	"editor.quickSuggestions": {
+		"strings": "on"
+	},
+	"emmet.showSuggestionsAsSnippets": true,
+	"editor.inlineSuggest.suppressSuggestions": true,
+	"emulator.androidColdBoot": true
+}

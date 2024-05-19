@@ -1,0 +1,143 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "JPG:",
+    "baseName": null,
+    "permissions": 666,
+    "format": "JSON",
+    "formatDescription": "The image format and characteristics",
+    "mimeType": "application/json",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 1065,
+      "height": 1600,
+      "x": 0,
+      "y": 0
+    },
+    "units": "Undefined",
+    "type": "TrueColor",
+    "baseType": "Undefined",
+    "endianness": "Undefined",
+    "colorspace": "sRGB",
+    "depth": 8,
+    "baseDepth": 8,
+    "channelDepth": {
+      "red": 8,
+      "green": 8,
+      "blue": 1
+    },
+    "pixels": 1704000,
+    "imageStatistics": {
+      "Overall": {
+        "min": 0,
+        "max": 255,
+        "mean": 232.232,
+        "median": 255,
+        "standardDeviation": 51.4745,
+        "kurtosis": 6.65867,
+        "skewness": -2.67518,
+        "entropy": 0.322884
+      }
+    },
+    "channelStatistics": {
+      "red": {
+        "min": 0,
+        "max": 255,
+        "mean": 230.939,
+        "median": 255,
+        "standardDeviation": 53.987,
+        "kurtosis": 5.89904,
+        "skewness": -2.57553,
+        "entropy": 0.325725
+      },
+      "green": {
+        "min": 0,
+        "max": 255,
+        "mean": 232.462,
+        "median": 255,
+        "standardDeviation": 51.2114,
+        "kurtosis": 6.76048,
+        "skewness": -2.69438,
+        "entropy": 0.322033
+      },
+      "blue": {
+        "min": 0,
+        "max": 255,
+        "mean": 233.297,
+        "median": 255,
+        "standardDeviation": 49.225,
+        "kurtosis": 7.31649,
+        "skewness": -2.75564,
+        "entropy": 0.320893
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBDBDBDBD",
+    "backgroundColor": "#FFFFFFFFFFFF",
+    "borderColor": "#DFDFDFDFDFDF",
+    "transparentColor": "#000000000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 1065,
+      "height": 1600,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "JPEG",
+    "quality": 94,
+    "orientation": "Undefined",
+    "properties": {
+      "date:create": "2024-05-09T17:52:33+00:00",
+      "date:modify": "2024-05-09T17:52:33+00:00",
+      "date:timestamp": "2024-05-09T17:52:33+00:00",
+      "exif:Artist": "EDUARD JAHELKA                  ",
+      "exif:Copyright": "ED Jahelka",
+      "exif:ExifOffset": "146",
+      "exif:ExifVersion": "0220",
+      "exif:ImageDescription": "Vanquish",
+      "exif:PixelXDimension": "1065",
+      "exif:PixelYDimension": "1600",
+      "exif:Software": "Google",
+      "exif:UserComment": "ASCII",
+      "exif:YCbCrSubSampling": "2, 2",
+      "jpeg:colorspace": "2",
+      "jpeg:sampling-factor": "2x2,1x1,1x1",
+      "signature": "d4d56595c91058c447b8b71b508a2d6926c8be46739d5b748a4ea4654b48efc1"
+    },
+    "profiles": {
+      "exif": {
+        "length": 250
+      }
+    },
+    "tainted": false,
+    "filesize": "67557B",
+    "numberPixels": "1.704M",
+    "pixelsPerSecond": "101.709MB",
+    "userTime": "0.017u",
+    "elapsedTime": "0:01.016",
+    "version": "ImageMagick 7.1.1-28 Q16 x64 365d9b6f6:20240211 https://imagemagick.org"
+  }
+}]
